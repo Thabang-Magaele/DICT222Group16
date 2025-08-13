@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="410.0" prefWidth="569.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.register_controller">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" text="Registration Page">
+         <font>
+            <Font size="42.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="72.0" text="Name:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="111.0" text="Surname:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="150.0" prefWidth="152.0" text="ID Number:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="189.0" text="Home Address:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="228.0" text="Vehicle Registration:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <TextField fx:id="nameField" layoutX="118.0" layoutY="79.0" prefHeight="26.0" prefWidth="443.0" />
+      <TextField fx:id="surnameField" layoutX="155.0" layoutY="118.0" prefHeight="26.0" prefWidth="406.0" />
+      <TextField fx:id="idNumberField" layoutX="183.0" layoutY="157.0" prefHeight="26.0" prefWidth="379.0" />
+      <TextField fx:id="homeAddressField" layoutX="235.0" layoutY="196.0" prefHeight="26.0" prefWidth="328.0" />
+      <TextField fx:id="vehicleRegistrationField" layoutX="292.0" layoutY="235.0" prefHeight="26.0" prefWidth="274.0" />
+      <Button layoutX="12.0" layoutY="339.0" mnemonicParsing="false" onAction="#handleCreateAccount" prefHeight="64.0" prefWidth="545.0" text="Create Account">
+         <font>
+            <Font size="34.0" />
+         </font>
+      </Button>
+      <Label layoutX="12.0" layoutY="262.0" prefHeight="39.0" prefWidth="88.0" text="Email:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="12.0" layoutY="298.0" text="Create Password:">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <TextField fx:id="emailField" layoutX="103.0" layoutY="269.0" prefHeight="26.0" prefWidth="454.0" />
+      <TextField fx:id="passwordField" layoutX="260.0" layoutY="305.0" prefHeight="26.0" prefWidth="298.0" />
+   </children>
+</AnchorPane>
