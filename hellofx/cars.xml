@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<Cars>
+	<Car>
+		<Make>Toyota</Make>
+		<Model>Hilux 2.8 GD-6 Raider</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Toyota</Make>
+		<Model>Corolla Quest 1.8</Model>
+		<FuelTankCapacityLitres>55</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Toyota</Make>
+		<Model>Fortuner 2.8 GD-6</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Toyota</Make>
+		<Model>Land Cruiser 300</Model>
+		<FuelTankCapacityLitres>110</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Toyota</Make>
+		<Model>RAV4 2.0 GX</Model>
+		<FuelTankCapacityLitres>55</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Volkswagen</Make>
+		<Model>Polo Vivo 1.4 Trendline</Model>
+		<FuelTankCapacityLitres>45</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Volkswagen</Make>
+		<Model>Golf 8 GTI</Model>
+		<FuelTankCapacityLitres>50</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Volkswagen</Make>
+		<Model>Tiguan 1.4 TSI</Model>
+		<FuelTankCapacityLitres>58</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Volkswagen</Make>
+		<Model>Amarok 3.0 V6 TDI</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Volkswagen</Make>
+		<Model>Transporter Kombi</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Ford</Make>
+		<Model>Ranger 2.0 Bi-Turbo Wildtrak</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Ford</Make>
+		<Model>Everest 2.0 Bi-Turbo XLT</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Ford</Make>
+		<Model>EcoSport 1.5 Ambiente</Model>
+		<FuelTankCapacityLitres>52</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Ford</Make>
+		<Model>Fiesta 1.0T Trend</Model>
+		<FuelTankCapacityLitres>42</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Ford</Make>
+		<Model>Mustang 5.0 GT</Model>
+		<FuelTankCapacityLitres>61</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Nissan</Make>
+		<Model>Navara 2.5 LE 4x4</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Nissan</Make>
+		<Model>Qashqai 1.3T Acenta</Model>
+		<FuelTankCapacityLitres>55</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Nissan</Make>
+		<Model>Almera 1.5 Acenta</Model>
+		<FuelTankCapacityLitres>41</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Nissan</Make>
+		<Model>X-Trail 2.5 Acenta</Model>
+		<FuelTankCapacityLitres>60</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Nissan</Make>
+		<Model>Patrol 5.6 V8</Model>
+		<FuelTankCapacityLitres>140</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>BMW</Make>
+		<Model>320i M Sport</Model>
+		<FuelTankCapacityLitres>59</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>BMW</Make>
+		<Model>X3 xDrive20d</Model>
+		<FuelTankCapacityLitres>60</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>BMW</Make>
+		<Model>X5 xDrive30d</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>BMW</Make>
+		<Model>M3 Competition</Model>
+		<FuelTankCapacityLitres>59</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>BMW</Make>
+		<Model>118i M Sport</Model>
+		<FuelTankCapacityLitres>50</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mercedes-Benz</Make>
+		<Model>C200 Avantgarde</Model>
+		<FuelTankCapacityLitres>66</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mercedes-Benz</Make>
+		<Model>GLC300 4MATIC</Model>
+		<FuelTankCapacityLitres>66</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mercedes-Benz</Make>
+		<Model>A200 Progressive</Model>
+		<FuelTankCapacityLitres>43</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mercedes-Benz</Make>
+		<Model>E220d Avantgarde</Model>
+		<FuelTankCapacityLitres>66</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mercedes-Benz</Make>
+		<Model>GLE400d 4MATIC</Model>
+		<FuelTankCapacityLitres>85</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Hyundai</Make>
+		<Model>i20 1.2 Motion</Model>
+		<FuelTankCapacityLitres>37</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Hyundai</Make>
+		<Model>Tucson 2.0 Premium</Model>
+		<FuelTankCapacityLitres>54</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Hyundai</Make>
+		<Model>Creta 1.5 Executive</Model>
+		<FuelTankCapacityLitres>50</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Hyundai</Make>
+		<Model>Santa Fe 2.2 CRDi</Model>
+		<FuelTankCapacityLitres>71</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Hyundai</Make>
+		<Model>H-1 Bus 2.5 CRDi</Model>
+		<FuelTankCapacityLitres>75</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Kia</Make>
+		<Model>Picanto 1.0 Start</Model>
+		<FuelTankCapacityLitres>35</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Kia</Make>
+		<Model>Sportage 2.0 Ignite</Model>
+		<FuelTankCapacityLitres>62</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Kia</Make>
+		<Model>Seltos 1.5 EX</Model>
+		<FuelTankCapacityLitres>50</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Kia</Make>
+		<Model>Sorento 2.2 CRDi EX</Model>
+		<FuelTankCapacityLitres>71</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Kia</Make>
+		<Model>Rio 1.4 LX</Model>
+		<FuelTankCapacityLitres>45</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mazda</Make>
+		<Model>Mazda2 1.5 Active</Model>
+		<FuelTankCapacityLitres>44</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mazda</Make>
+		<Model>Mazda3 1.5 Dynamic</Model>
+		<FuelTankCapacityLitres>51</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mazda</Make>
+		<Model>CX-3 2.0 Individual</Model>
+		<FuelTankCapacityLitres>48</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mazda</Make>
+		<Model>CX-5 2.0 Active</Model>
+		<FuelTankCapacityLitres>56</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Mazda</Make>
+		<Model>BT-50 3.0TD Dynamic</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Isuzu</Make>
+		<Model>D-MAX 3.0 Ddi V-Cross</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Isuzu</Make>
+		<Model>MU-X 3.0 Ddi</Model>
+		<FuelTankCapacityLitres>80</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Suzuki</Make>
+		<Model>Swift 1.2 GA</Model>
+		<FuelTankCapacityLitres>37</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Suzuki</Make>
+		<Model>Vitara 1.6 GLX</Model>
+		<FuelTankCapacityLitres>47</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Suzuki</Make>
+		<Model>Jimny 1.5 GLX</Model>
+		<FuelTankCapacityLitres>40</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Suzuki</Make>
+		<Model>Baleno 1.4 GLX</Model>
+		<FuelTankCapacityLitres>37</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Renault</Make>
+		<Model>Kwid 1.0 Expression</Model>
+		<FuelTankCapacityLitres>28</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Renault</Make>
+		<Model>Duster 1.5 dCi Zen</Model>
+		<FuelTankCapacityLitres>50</FuelTankCapacityLitres>
+	</Car>
+	<Car>
+		<Make>Renault</Make>
+		<Model>Triber 1.0 Prestige</Model>
+		<FuelTankCapacityLitres>40</FuelTankCapacityLitres>
+	</Car>
+</Cars>
